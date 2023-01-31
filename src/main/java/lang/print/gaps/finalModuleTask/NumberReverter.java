@@ -2,7 +2,7 @@ package lang.print.gaps.finalModuleTask;
 
 public class NumberReverter {
     public void revert(int number) {
-     number=489;
+     number=457;
      int third=number%10;
      int number2=number/10;
      int second=number2%10;
