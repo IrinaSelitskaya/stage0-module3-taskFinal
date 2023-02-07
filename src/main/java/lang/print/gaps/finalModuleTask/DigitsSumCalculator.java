@@ -2,7 +2,6 @@ package lang.print.gaps.finalModuleTask;
 
 public class DigitsSumCalculator {
     public void calculateSum(int number) {
-     number=4567;
      int fourth=number%10;
      int number2=number/10;
      int third=number2%10;
